@@ -1,9 +1,9 @@
 <h1 align="center">👨‍💻 Hi,  I'm Beshoy Ramy | Front-end Developer  👋</h1>
 <p align="center">
     <a href="https://x.com/Besho_Ramy10" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/beshoy-ramy-851911338/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href='mailto:eng.beshoyramy@gmail.com'><img alt="email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height='18px'/></a>
-    <a href="https://www.instagram.com/besho_ramy/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/beshoy-ramy-851911338/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href='mailto:eng.beshoyramy@gmail.com' target="_blank"><img alt="email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height='18px'/></a>
+    <a href="https://www.instagram.com/besho_ramy/" target="_blank" ><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 &nbsp;
 
