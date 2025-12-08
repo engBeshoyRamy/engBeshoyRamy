@@ -45,9 +45,7 @@
 ---
 
 ### 🛠️ Featured Projects
-- 🛒 [**Groovo - Grocery App**](https://github.com/your-username/groovo)  
-- 🔐 [**Face Door Recognition + Keypad**](https://github.com/your-username/face-door-recognition)    
-- 🎨 **Responsive Portfolio & Landing Pages** (React, Next.js, TailwindCSS)  
+- 📱[**Daniels - Portfolio**](https://github.com/engBeshoyRamy/Daniels-project-)
 
 ---
 
