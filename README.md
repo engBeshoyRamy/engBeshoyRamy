@@ -35,10 +35,7 @@
 - **What I Offer:**  
   - User Interface Design  
   - User Experience Research  
-  - Wireframing & Prototyping  
-  - Design Systems Creation  
-  - Usability Testing  
-  - Mobile App Design  
+  - Wireframing & Prototyping   
 - **Technologies & Tools:** Figma, Adobe XD, Sketch, InVision, Miro  
 
 #### **Data Science**
@@ -48,20 +45,7 @@
   - Statistical Analysis  
   - Data Visualization  
   - Power BI Dashboards  
-  - Python Data Analysis  
-  - Business Intelligence Reports  
 - **Technologies & Tools:** Python, Pandas, NumPy, Power BI, Matplotlib, Seaborn  
-
-#### **Mobile Development**
-- **Overview:** Building mobile apps with seamless user experience for iOS & Android.  
-- **What I Offer:**  
-  - iOS & Android Development  
-  - React Native Apps  
-  - Mobile UI/UX Design  
-  - App Store Optimization  
-  - Push Notifications  
-  - Offline Functionality  
-- **Technologies & Tools:** React Native, Flutter, Swift, Kotlin, Firebase  
 
 ---
 
