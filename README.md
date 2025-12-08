@@ -95,8 +95,9 @@
 ---
 
 ### 🚀 Featured Projects
-- 📱 [**Daniels - Portfolio**](https://github.com/engBeshoyRamy/Daniels-project-)
-- 📚 [**Code Craft  - Education Website**](https://github.com/engBeshoyRamy/Code-Craft)
+- 📱 [**Daniels - Portfolio**](https://engbeshoyramy.github.io/Daniels-project-/)
+- 📚 [**Code Craft - Academy Website**](https://github.com/engBeshoyRamy/Code-Craft)
+- 🧠 [**Quiz Application - Education Website**](https://engbeshoyramy.github.io/quiz-application-/)
 
 ---
 
