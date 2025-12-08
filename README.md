@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hi, I'm Beshoy Ramy | Front-end Engineer & UI/UX Designer 👋</h1>
+<h1 align="center">👨‍💻 Hi, I'm Beshoy Ramy | Front-end Engineer 👋</h1>
 
 <p align="center">
     <a href="https://x.com/Besho_Ramy10" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
