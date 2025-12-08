@@ -79,8 +79,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/InVision-FF3366?style=flat&logo=InVision&logoColor=white" width="40"/>
   <img src="https://img.shields.io/badge/Miro-05CC9D?style=flat&logo=Miro&logoColor=white" width="40"/>
 
   <!-- Data Science -->
