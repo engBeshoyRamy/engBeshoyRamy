@@ -1,52 +1,96 @@
-<h1 align="center">👨‍💻 Hi,  I'm Beshoy Ramy | Front-end Engineer 👋</h1>
+<h1 align="center">👨‍💻 Hi, I'm Beshoy Ramy | Front-end Engineer & UI/UX Designer 👋</h1>
+
 <p align="center">
     <a href="https://x.com/Besho_Ramy10" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/beshoy-ramy-851911338/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href='mailto:eng.beshoyramy@gmail.com' target="_blank"><img alt="email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height='18px'/></a>
     <a href="https://www.instagram.com/besho_ramy/" target="_blank" ><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  </p>
-&nbsp;
+</p>
 
 ---
 
-
-
-🎓 **Bachelor’s of Computer & Control Engineering** at **El Shorouk Academy**  
-💻 Passionate about **Frontend Development, UI/UX, and Modern Web Technologies**  
-🚀 Focused on creating **responsive, user-friendly apps** and solving **real-world problems**.  
+🎓 **Bachelor’s in Computer & Control Engineering** - **El Shorouk Academy**  
+💻 **Front-end Development | UI/UX Design | Web & Mobile Applications | Data Science**  
+🚀 **Creating responsive, interactive, and user-centered digital experiences.**  
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
----
-
-### 🧐 More About Me:
-
-- 🔭 **Currently working on Frontend projects with React & Next.js**
-- 🔍 **Graduatin Project: Face Door Recognition + Keypad (Raspberry Pi, Haar-Cascade, LBPH)**   
-- 🌱 Learning more about **Deepening knowledge in Cloud Computing** and **Sharpening skills in Advanced Web Development**  
-- 👨🏻‍💻 Most of my projects are available on [GitHub](https://github.com/your-username?tab=repositories)  
-- 🎨 Strong interest in **UI/UX collaboration** and clean design principles  
-- 💬 Ask me about **Frontend Development, React, Next.js, or UI/UX**  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/beshoy-ramy-851911338/)  
-- 📝 Check out my [Resume](https://drive.google.com/file/d/1Z4IxZ7F4oQTxme7PM0yAZ-kIydOR2LOs/view?usp=drive_link)  
 
 ---
 
-### 🔨 Languages and Tools:
+### 🛠️ My Services
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
+#### **Web Development**
+- **Overview:** High-performance, scalable web applications using React, Next.js, and modern JS frameworks. Focus on clean code and optimal user experience.  
+- **What I Offer:**  
+  - Custom Web Applications  
+  - E-commerce Solutions  
+  - Progressive Web Apps (PWA)  
+  - API Integration & Development  
+  - Performance Optimization  
+  - Responsive Design Implementation  
+- **Technologies & Tools:** React, Next.js, TypeScript, Node.js, Tailwind CSS  
 
-<br>
+#### **UI/UX Design**
+- **Overview:** User-centered designs combining aesthetics with functionality. Process includes research, wireframing, prototyping, and user testing.  
+- **What I Offer:**  
+  - User Interface Design  
+  - User Experience Research  
+  - Wireframing & Prototyping  
+  - Design Systems Creation  
+  - Usability Testing  
+  - Mobile App Design  
+- **Technologies & Tools:** Figma, Adobe XD, Sketch, InVision, Miro  
 
---
+#### **Data Science**
+- **Overview:** Analyzing complex datasets to uncover insights that drive business decisions.  
+- **What I Offer:**  
+  - Data Cleaning & Preprocessing  
+  - Statistical Analysis  
+  - Data Visualization  
+  - Power BI Dashboards  
+  - Python Data Analysis  
+  - Business Intelligence Reports  
+- **Technologies & Tools:** Python, Pandas, NumPy, Power BI, Matplotlib, Seaborn  
+
+#### **Mobile Development**
+- **Overview:** Building mobile apps with seamless user experience for iOS & Android.  
+- **What I Offer:**  
+  - iOS & Android Development  
+  - React Native Apps  
+  - Mobile UI/UX Design  
+  - App Store Optimization  
+  - Push Notifications  
+  - Offline Functionality  
+- **Technologies & Tools:** React Native, Flutter, Swift, Kotlin, Firebase  
 
 ---
 
-### 🛠️ Featured Projects
-- 📱[**Daniels - Portfolio**](https://github.com/engBeshoyRamy/Daniels-project-)
+### 🔍 Current Focus
+- Building **interactive frontend projects** with React & Next.js  
+- Graduation Project: **Face Door Recognition + Keypad** (Raspberry Pi, Haar-Cascade, LBPH)  
+- Deepening skills in **Cloud Computing** and **Advanced Web Development**  
 
 ---
 
-✨ _“Code is not just about solving problems, it’s about creating experiences.”_
+### 💻 Tools & Technologies
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="50" height="50"/> 
+<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png"/> 
+<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" height ="42px"/> 
+
+---
+
+### 🚀 Featured Projects
+- 📱 [**Daniels - Portfolio**](https://github.com/engBeshoyRamy/Daniels-project-)  
+
+---
+
+✨ _“Code is not just about solving problems; it’s about creating experiences.”_
