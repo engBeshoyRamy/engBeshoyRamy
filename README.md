@@ -86,11 +86,12 @@
 ---
 
 ## 🚀 Featured Projects
-- 📱 **Daniels - Portfolio**  
-- 📚 **Code Craft - Academy Website**  
-- 🧠 **Quiz Application**  
-- 📋 **Modern Todo List**  
-- 🍽️ **Mealify Landing Page**
+- 📱[**Daniels - Portfolio**](https://engbeshoyramy.github.io/Daniels-project-/)  
+- 📚[**Code Craft - Academy Website**](https://github.com/engBeshoyRamy/Code-Craft)
+- 🧠[**Quiz Application**](https://engbeshoyramy.github.io/quiz-application-/)
+- 📋[**Modern Todo List**](https://engbeshoyramy.github.io/Modern-Todo-List-Application-/)
+- 🍽️[**Mealify Landing Page**](https://engbeshoyramy.github.io/Mealify-landingpage/)
+- 🔐[**Smart-Login-System-Dashboard**](https://engbeshoyramy.github.io/Smart-Login-System-Dashboard/)
 
 ---
 
