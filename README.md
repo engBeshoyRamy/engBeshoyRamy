@@ -86,7 +86,9 @@
 ---
 
 ## 🚀 Featured Projects
-- 📱[**Daniels - Portfolio**](https://engbeshoyramy.github.io/Daniels-project-/)  
+- 🧑‍💼[**My-Portfolio**](https://beshoportfolio.netlify.app/)
+- 🛍️[**Vendo-Market**](https://vendomarket.netlify.app/)
+- 📱[**Daniels - Portfolio**](https://engbeshoyramy.github.io/Daniels-project-/)    
 - 📚[**Code Craft - Academy Website**](https://github.com/engBeshoyRamy/Code-Craft)
 - 🧠[**Quiz Application**](https://engbeshoyramy.github.io/quiz-application-/)
 - 📋[**Modern Todo List**](https://engbeshoyramy.github.io/Modern-Todo-List-Application-/)
